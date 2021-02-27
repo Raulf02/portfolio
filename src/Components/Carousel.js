@@ -26,7 +26,7 @@ class Carousel extends React.Component {
                     title: 'Portfolio',
                     subTitle: 'My personal home page',
                     imgSrc: portfolio,
-                    link: 'https://www.youtube.com/channel/UCxSITxL2JbF229OGCqieVZw',
+                    link: 'https://github.com/Raulf02/portfolio',
                     selected: false
                 },
                 {
